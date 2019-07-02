@@ -1,4 +1,4 @@
-# interactive_vr  
+# Interactive VR Game and Controller 
 
 PART A: VR Game 제작
 1. Game과 Controller간 블루트스 Serial 통신
@@ -29,16 +29,16 @@ Code
 
 ### Hardware
 
-하드웨어 수량 확인하기
-[] 립모션
-[x] 아두이노 우노
-[] 아두이노 나노 or 미니
-[x] 블루투스 모듈 HC-06
-[] 진동모터
-[] 가속도센서
-[] 전선
-[] 브레드보드
-[] PCB
+하드웨어 수량 확인하기 
+[ ] 립모션  
+[x] 아두이노 우노  
+[ ] 아두이노 나노 or 미니  
+[x] 블루투스 모듈 HC-06  
+[ ] 진동모터  
+[ ] 가속도센서  
+[ ] 전선  
+[ ] 브레드보드  
+[ ] PCB  
 
 추가 테스트 하기 위한 장비
 * LED
