@@ -26,6 +26,11 @@ Code
 
 ### LeapMotion  
 
+[립모션 리뷰](https://blog.naver.com/dev4unet/220647478393)
+[Leapmotion developer documentation](https://developer.leapmotion.com/documentation)
+[Leapmotion Android](https://developer.leapmotion.com/android#107)
+[Leapmotion Orion SDK](https://www.leapmotion.com/technology/)
+[Leapmotion in Unity Tutorials](https://www.youtube.com/playlist?list=PLnTTrMDXCsLpjeAYUXdgcpuGBWZSp7vyS)  
 
 ## Hardware
 
