@@ -24,7 +24,7 @@ Code
 * Arduino Script
 * Unity Script
 
-### LipMotion  
+### LeapMotion  
 
 
 ## Hardware
