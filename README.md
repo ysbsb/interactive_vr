@@ -1,9 +1,6 @@
 # Interactive VR Game and Controller 
 
 PART A: VR Game 제작
-1. Game과 Controller간 블루트스 Serial 통신
-2. 립모션 장치와 Unity 간의 Interface  
-
 PART B: VR 게임과 연동하는 컨트롤러 장치 개발
 
 ## VR Game 제작
@@ -11,11 +8,13 @@ Catch Star
 
 ## Controller 개발
 1. Software: Game과 Controller간 블루투스 Serial 통신
+  * Game과 Controller간 블루트스 Serial 통신
+  * 립모션 장치와 Unity 간의 Interface  
 2. Hardware: Controller 장치 제작   
 
-### Software  
+## Software  
 
-#### Arduino
+### Arduino
 블루투스 Serial 통신
 단계 
 * 기본: 게임 상에서 노트를 맞추었을 때, 아두이노 진동 모터 상에서 진동이 울린다.
@@ -24,10 +23,10 @@ Code
 * Arduino Script
 * Unity Script
 
-#### LipMotion  
+### LipMotion  
 
 
-### Hardware
+## Hardware
 
 하드웨어 수량 확인하기  
 - [ ] 립모션  
